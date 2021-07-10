@@ -52,13 +52,13 @@ public class App {
         
         
         //QUINTO EJERCICIO
-        /**double cateto1=10.5, cateto2=52.2;
-        Scanner sc = new Scanner(System.in);
+        double cateto1=10.5, cateto2=52.2;
+        /**Scanner sc = new Scanner(System.in);
         System.out.print("Introduzca longitud del primer cateto: ");
         cateto1 = sc.nextDouble();
         System.out.print("Introduzca longitud del segundo cateto: ");
         cateto2 = sc.nextDouble();*/
-        //System.out.println("La hipotenusa es: "+Pitagoras(cateto1, cateto2));
+        System.out.println("La hipotenusa es: "+Pitagoras(cateto1, cateto2));
         
         //SEXTO EJERCICIO
         //int num=32;
